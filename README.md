@@ -11,3 +11,9 @@ Proyecto documentación para el administrador de red **1rB SMX**.
 |   Comando   |     Codigo     |     Codigo     |
 |-------------|----------------|----------------|
 |Bash         |ls -lah         |cd directorio   |
+
+---
+```bash
+ls -lah
+cd directorio
+```
